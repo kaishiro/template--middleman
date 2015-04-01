@@ -1,0 +1,36 @@
+navigation:
+  - title: About
+    link: /about
+  - title: Expertise
+    link: /expertise
+  - title: Services
+    link: /services
+  - title: Insights
+    link: /insights
+  - title: Careers
+    link: /careers
+  - title: Contact Us
+    link: /contact-us
+internal:
+  - title: Our Mission
+    link:  #
+  - title: Management Team
+    link:  #
+  - title: Corporate Responsibility
+    link:  #
+social:
+  - title: facebook
+    link: #
+  - title: twitter
+    link: #
+  - title: youtube
+    link: #
+  - title: googleplus
+    link: #
+  - title: linkedin
+    link: #
+ctas:
+  - title: Citisoft Europe
+    link: /contact-us
+  - title: Citisoft North America
+    link: /contact-us
